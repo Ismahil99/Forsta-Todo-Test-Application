@@ -70,32 +70,6 @@ ul.todoList {
                 margin-right: 5px;
             }
         }
-        // .button_done{
-        //     position: relative;
-        //     width: 17.5px;
-        //     height: 17.5px;
-        //     border-radius: 3px;
-        //     border: #000 1px solid;
-        //     background-color: #fff;
-        //     margin: 0px;
-        //     margin-right: 10px;
-        //     transition: all 0.1s;
-        //     &::before{
-        //         content: '';
-        //         position: absolute;
-        //         width: 85%;
-        //         height: 85%;
-        //         transform: translate(-50%, -50%);
-        //         background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMCAxMS4zODZsMS4xNy0xLjIwNmMxLjk1MS41MjIgNS4zMTMgMS43MzEgOC4zMyAzLjU5NyAzLjE3NS00LjE3NyA5LjU4Mi05LjM5OCAxMy40NTYtMTEuNzc3bDEuMDQ0IDEuMDczLTE0IDE4LjkyNy0xMC0xMC42MTR6Ii8+PC9zdmc+);
-        //         background-size: contain;
-        //         background-position: center;
-        //         background-repeat: no-repeat;
-        //         display: none;
-        //     }
-        //     &:hover{
-        //         background-color: #00a8f0;
-        //     }
-        // }
         .button_contol{
             position: relative;
             background-color: #FF00FF;
